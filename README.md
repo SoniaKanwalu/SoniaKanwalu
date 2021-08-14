@@ -1,6 +1,8 @@
 ### Hi Developers this is SONIA 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-SONIA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/sonali-k-934a2a219/)]
+![Linkedin Badge](https://img.shields.io/badge/-SONIA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/sonali-k-934a2a219/)
+
+
 I'm
 Full Stack Developer
 web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
