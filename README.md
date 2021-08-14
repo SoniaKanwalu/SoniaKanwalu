@@ -1,10 +1,10 @@
 ### Hi Developers 
 This is SONIA 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-SONIA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-k-934a2a219//)
+![Linkedin Badge](https://img.shields.io/badge/-SONIA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-k-934a2a219/)
 
 
-I'm  My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
+A competent, skilled, dedicated, hardworking, experienced, creative, unique WEB DEVELOPER. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
  A Enthusiastic wed devloper egar to contribute to team success through hard work, dicipline and attention and excellent organization skills. Tranning myself to be better at java script and problem sloving .Motivated to learn ang Grow and pass your knowledge to others.
 
 
