@@ -1,7 +1,4 @@
-### Hi Developers 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-Sonia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonali-k-934a2a219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bsg2Ob1%2FTTmmxMTrTVc2Y5A%3D%3D](https://www.linkedin.com/in/aakash--01629954/)
-
+### Hi Developers this is SONIA 👋
 
 
 I'm
@@ -9,7 +6,7 @@ Full Stack Developer
 I am a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SoniaKanwalu/count.svg)
 
 
 
